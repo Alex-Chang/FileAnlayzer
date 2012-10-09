@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Common", "Common\Common.vcproj", "{87F08E33-B4C4-4F67-BAB0-3106836A83C0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaterialScriptChecker", "MaterialScriptChecker\MaterialScriptChecker.vcproj", "{02E76A67-7801-4C9D-AB1C-2AEEA74E148E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TextureFileEnumerater", "TextureFileEnumerater\TextureFileEnumerater.vcproj", "{3FA9035E-F069-4639-A3C9-575B5BBE5029}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FilesIncludeString", "FilesIncludeString\FilesIncludeString.vcproj", "{C7919580-943E-457D-BEF5-1D48C7F99757}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SameMaterialChecker", "SameMaterialChecker\SameMaterialChecker.vcproj", "{5E5797C4-C3AE-4409-A53C-C3AA5E3A3BCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87F08E33-B4C4-4F67-BAB0-3106836A83C0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{87F08E33-B4C4-4F67-BAB0-3106836A83C0}.Debug|Win32.Build.0 = Debug|Win32
+		{87F08E33-B4C4-4F67-BAB0-3106836A83C0}.Release|Win32.ActiveCfg = Release|Win32
+		{87F08E33-B4C4-4F67-BAB0-3106836A83C0}.Release|Win32.Build.0 = Release|Win32
+		{02E76A67-7801-4C9D-AB1C-2AEEA74E148E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{02E76A67-7801-4C9D-AB1C-2AEEA74E148E}.Debug|Win32.Build.0 = Debug|Win32
+		{02E76A67-7801-4C9D-AB1C-2AEEA74E148E}.Release|Win32.ActiveCfg = Release|Win32
+		{02E76A67-7801-4C9D-AB1C-2AEEA74E148E}.Release|Win32.Build.0 = Release|Win32
+		{3FA9035E-F069-4639-A3C9-575B5BBE5029}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3FA9035E-F069-4639-A3C9-575B5BBE5029}.Debug|Win32.Build.0 = Debug|Win32
+		{3FA9035E-F069-4639-A3C9-575B5BBE5029}.Release|Win32.ActiveCfg = Release|Win32
+		{3FA9035E-F069-4639-A3C9-575B5BBE5029}.Release|Win32.Build.0 = Release|Win32
+		{C7919580-943E-457D-BEF5-1D48C7F99757}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C7919580-943E-457D-BEF5-1D48C7F99757}.Debug|Win32.Build.0 = Debug|Win32
+		{C7919580-943E-457D-BEF5-1D48C7F99757}.Release|Win32.ActiveCfg = Release|Win32
+		{C7919580-943E-457D-BEF5-1D48C7F99757}.Release|Win32.Build.0 = Release|Win32
+		{5E5797C4-C3AE-4409-A53C-C3AA5E3A3BCD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5E5797C4-C3AE-4409-A53C-C3AA5E3A3BCD}.Debug|Win32.Build.0 = Debug|Win32
+		{5E5797C4-C3AE-4409-A53C-C3AA5E3A3BCD}.Release|Win32.ActiveCfg = Release|Win32
+		{5E5797C4-C3AE-4409-A53C-C3AA5E3A3BCD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
